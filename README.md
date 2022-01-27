@@ -24,7 +24,7 @@ Conference ∈ Tampa, FL, USA
 
 | Raman shift / cm<sup>-1</sup> | Assignment | Literature |
 | - | - | - |
-| 343, 344 | CoS<sub>2</sub> | [Kornienko et al. J.Amer.Chem.Soc. 2015; 137(23): 7448-7455](https://doi.org/10.1021/jacs.5b03545) |
+| 344 | CoS<sub>2</sub> | [Kornienko et al. J.Amer.Chem.Soc. 2015; 137(23): 7448-7455](https://doi.org/10.1021/jacs.5b03545) |
 | 407 | CoS<sub>2</sub> | [Kornienko et al. J.Amer.Chem.Soc. 2015; 137(23): 7448-7455](https://doi.org/10.1021/jacs.5b03545) |
 | 504 | Disulfide Bridges (BSA) | [Bazylewski et al. RSC Adv. 2017; 7(5): 2964-2970](https://doi.org/10.1039/C6RA25879D) |
 | 544 | Cr<sub>2</sub>O<sub>3</sub> | [Taheri. PhD thesis. U.ofSaskatchewan. 2019; 70](http://hdl.handle.net/10388/12374) |
